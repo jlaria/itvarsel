@@ -1,0 +1,6 @@
+
+Sun May  6 20:51:25 2018	Starting case study
+Sun May  6 20:51:25 2018	Global parameters
+Sun May  6 20:51:25 2018		nruns=200
+Sun May  6 20:51:36 2018	Welcome to minarConjuntos version 0.3
+Sun May  6 20:51:36 2018	Entering foreach loop with 200 iterations...
